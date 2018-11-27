@@ -1,2 +1,2 @@
 # maven
-maven 使用
+## [scope属性](scope)
