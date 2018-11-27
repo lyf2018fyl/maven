@@ -1,2 +1,2 @@
 # maven
-## [scope属性](scope)
+## [1 scope属性](scope)
